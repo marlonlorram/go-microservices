@@ -1,0 +1,4 @@
+github.com/Southclaws/fault v0.7.0 h1:qT0aOp+bUpvxm8fveBIJRcU/QfrBCmR6kMaAHyAknSM=
+github.com/Southclaws/fault v0.7.0/go.mod h1:VUVkAWutC59SL16s6FTqf3I6I2z77RmnaW5XRz4bLOE=
+github.com/kelseyhightower/envconfig v1.4.0 h1:Im6hONhd3pLkfDFsbRgu68RDNkGF1r3dvMUtDTo2cv8=
+github.com/kelseyhightower/envconfig v1.4.0/go.mod h1:cccZRl6mQpaq41TPp5QxidR+Sa3axMbJDNb//FQX6Gg=
